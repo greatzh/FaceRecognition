@@ -1,6 +1,6 @@
 # Face Recognition using the TensorFlow integrated with Keras
 
-*[点击此处阅读中文文档](使用TensorFlow作为后端的Keras实现的简单人脸识别)*
+*[点击此处阅读中文文档](#使用TensorFlow作为后端的Keras实现的简单人脸识别)*
 
 This project finished an easy face recognition, which can recognize certain face from the dataset in nice result.
 
