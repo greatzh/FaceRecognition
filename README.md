@@ -11,6 +11,8 @@ You can view the final result showing below.
 ## 1. Firstly, show my thanks for their works
 
 1. *[Python OpenCV+TensorFlow2.0 人脸识别入门](https://blog.csdn.net/qq_41495871/article/details/102886182)*
+2. *[Python爬虫——批量爬取微博图片（不使用cookie）](https://blog.csdn.net/weixin_43943977/article/details/102873455)*
+3. *[人脸识别开源图片集(刘德华和吴彦祖)](https://blog.csdn.net/andylou_1/article/details/79184580?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-10&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-10)*
 
 ## 2. Instructions for Environment
 
